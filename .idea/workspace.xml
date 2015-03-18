@@ -2,135 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="886a4c76-c005-4831-85b4-27c1aa057097" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fantasygive/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fantasygive/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fantasygive/style.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/checkbox/simple/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/checkbox/simple/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/checkbox/simple/test.scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/collectionRepeat/contacts/contacts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/collectionRepeat/contacts/contacts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/collectionRepeat/contacts/test.scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/footer/simple/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/footer/simple/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/footer/simple/test.scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/header/simple/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/header/simple/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/header/simple/test.scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/infiniteScroll/forever/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/infiniteScroll/forever/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/infiniteScroll/forever/test.scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/list/animated/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/list/animated/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/list/animated/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/list/animated/test.scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/list/reorderDelete/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/list/reorderDelete/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/list/reorderDelete/test.scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/radio/chooseOne/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/radio/chooseOne/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/radio/chooseOne/test.scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/refresher/refreshList/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/refresher/refreshList/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/refresher/refreshList/test.scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/sideMenus/navWithMenu/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/sideMenus/navWithMenu/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/sideMenus/navWithMenu/test.scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/sideMenus/simple/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/sideMenus/simple/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/sideMenus/simple/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/sideMenus/simple/test.scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/slideBox/appIntro/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/slideBox/appIntro/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/slideBox/appIntro/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/slideBox/appIntro/test.scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/tabs/tabsAndNav/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/tabs/tabsAndNav/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/tabs/tabsAndNav/test.scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/textInput/floatingLabel/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/textInput/floatingLabel/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/textInput/floatingLabel/test.scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/toggle/simple/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/toggle/simple/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/toggle/simple/test.scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/actionsheet/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/actionsheet/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/actionsheet/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/app-intro-walkthrough/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/app-intro-walkthrough/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/app-intro-walkthrough/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/checkbox/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/checkbox/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/checkbox/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/collection-repeat/contacts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/collection-repeat/contacts.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/collection-repeat/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/collection-repeat/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/collection-repeat/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/flickr-search-example/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/flickr-search-example/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/flickr-search-example/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/frosted-glass-effect/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/frosted-glass-effect/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/frosted-glass-effect/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/google-maps/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/google-maps/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/google-maps/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/lists/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/lists/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/lists/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/loading-bar/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/loading-bar/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/loading-bar/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/modal/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/modal/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/modal/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/popup/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/popup/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/popup/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/pull-to-refresh/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/pull-to-refresh/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/pull-to-refresh/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/radio-buttons/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/radio-buttons/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/radio-buttons/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/shrinking-header/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/shrinking-header/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/shrinking-header/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/side-menu-and-navigation/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/side-menu-and-navigation/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/side-menu-and-navigation/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/sign-in-then-tabs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/sign-in-then-tabs/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/sign-in-then-tabs/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/starter-template/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/starter-template/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/starter-template/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/swipeable-cards/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/swipeable-cards/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/swipeable-cards/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/tabs-and-navigation/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/tabs-and-navigation/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/tabs-and-navigation/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/thumbnail-list/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/thumbnail-list/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/thumbnail-list/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/toggle/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/toggle/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/toggle/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/actionSheet/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/actionSheet/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/actionSheet/test.scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/loading/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/loading/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/loading/test.scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/popover/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/popover/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/popover/test.scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/popup/popping/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/popup/popping/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/popup/popping/test.scenario.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fantasygive/index.html" afterPath="$PROJECT_DIR$/fantasygive/index.html" />
     </list>
     <ignored path="mvp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -154,20 +26,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fantasygive/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.875" vertical-offset="330" max-vertical-offset="2730">
-              <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.34653464" vertical-offset="1170" max-vertical-offset="1980">
+              <caret line="92" column="78" selection-start-line="92" selection-start-column="78" selection-end-line="92" selection-end-column="78" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fantasygive/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.61904764" vertical-offset="0" max-vertical-offset="1215">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1215">
               <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
               <folding />
             </state>
@@ -462,18 +334,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fantasygive/index.html">
+    <entry file="file://$PROJECT_DIR$/fantasygive/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.875" vertical-offset="330" max-vertical-offset="2730">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1215">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fantasygive/script.js">
+    <entry file="file://$PROJECT_DIR$/fantasygive/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61904764" vertical-offset="0" max-vertical-offset="1215">
-          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.34653464" vertical-offset="1170" max-vertical-offset="1980">
+          <caret line="92" column="78" selection-start-line="92" selection-start-column="78" selection-end-line="92" selection-end-column="78" />
           <folding />
         </state>
       </provider>
