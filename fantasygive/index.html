@@ -39,7 +39,8 @@
           </label>
         </div>
         <div class="padding">
-          <button class="button button-block button-positive" ng-click="login()">
+         <!--- <button class="button button-block button-positive" ng-click="login()"> --->
+            <button class="button button-block button-positive" ng-click="signIn(user)">
             Login
           </button>
           <p class="text-center">
@@ -89,7 +90,7 @@
   <script id="scoreboard.html" type="text/ng-template">
     <ion-view title="Scoreboard">
       <ion-content padding="true">
-        <p>Welcome to FantasyGive, {{user.name}}!</p>
+        <p>Welcome to FantasyGive, {{user.username}}!</p>
         <p>
           <a class="button icon icon-right ion-chevron-right" href="#/sign-in">Sign Out</a>
         </p>
